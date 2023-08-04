@@ -1,3 +1,6 @@
 [submodule "plugins"]
 	path = plugins
 	url = https://github.com/cli-ish/moodle-plugin-list.git
+[submodule "fingerprints"]
+	path = fingerprints
+	url = git@github.com:cli-ish/moodle-fingerprints.git
